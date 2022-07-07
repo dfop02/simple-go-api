@@ -1,4 +1,4 @@
-# simple-go-api
+# Simple Go Api
 This repository has the objective to register a go exercise made for study reasons.
 
 ## What is it
